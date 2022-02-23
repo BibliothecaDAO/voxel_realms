@@ -1,0 +1,18 @@
+order_data = {
+    "Power": {"pairing": 1, "primairy_attunement": "Light", "secondairy_attunement": "Strenght"},
+    "Giants": {"pairing": 2, "primairy_attunement": "Light", "secondairy_attunement": "Strenght"},
+    "Titans": {"pairing": 3, "primairy_attunement": "Light", "secondairy_attunement": "Strenght"},
+    "Skill": {"pairing": 4, "primairy_attunement": "Light", "secondairy_attunement": "Strenght"},
+    "Perfection": {"pairing": 5, "primairy_attunement": "Light", "secondairy_attunement": "Light"},
+    "Brilliance": {"pairing": 6, "primairy_attunement": "Light", "secondairy_attunement": "Light"},
+    "Enlightenment": {"pairing": 7, "primairy_attunement": "Light", "secondairy_attunement": "Light"},
+    "Protection": {"pairing": 8, "primairy_attunement": "Light", "secondairy_attunement": "Light"},
+    "Anger": {"pairing": 8, "primairy_attunement": "Dark", "secondairy_attunement": "Dark"},
+    "Rage": {"pairing": 7, "primairy_attunement": "Dark", "secondairy_attunement": "Dark"},
+    "Fury": {"pairing": 6, "primairy_attunement": "Dark", "secondairy_attunement": "Dark"},
+    "Vitriol": {"pairing": 5, "primairy_attunement": "Dark", "secondairy_attunement": "Dark"},
+    "the Fox": {"pairing": 4, "primairy_attunement": "Dark", "secondairy_attunement": "Cunning"},
+    "Detection": {"pairing": 3, "primairy_attunement": "Dark", "secondairy_attunement": "Cunning"},
+    "Reflection": {"pairing": 2, "primairy_attunement": "Dark", "secondairy_attunement": "Cunning"},
+    "the Twins": {"pairing": 1, "primairy_attunement": "Dark", "secondairy_attunement": "Cunning"},
+}
